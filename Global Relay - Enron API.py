@@ -1,5 +1,3 @@
-#https://www.digitalocean.com/community/tutorials/processing-incoming-request-data-in-flask
-
 #importing libraries
 from flask import Flask, request
 from flask_restful import Api
